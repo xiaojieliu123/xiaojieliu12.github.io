@@ -72,7 +72,12 @@ education:
     date_start: 2012-09-01
     date_end: 2016-6-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
