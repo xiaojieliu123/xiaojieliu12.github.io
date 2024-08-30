@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Xiaojie liu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shaw Je Liu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xiaojie
+last_name: Liu
 
 # Status emoji
 status:
@@ -20,40 +20,40 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Kellogg School of management, Northwestern University
+    url: https://www.kellogg.northwestern.edu/faculty/academics/managerial-economics-decision-sciences.aspx
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:xiaojie.liu@kellogg.northwestern.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/xiaojieliu1993
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/xiaojieliu123/xiaojieliu123.github.io/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/xiaojie-liu-a6768a157/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    # url: https://scholar.google.com/
+
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Business Cycle
+  - Economic Growth
+  - Monetary Policy
+  - Search Frictions
+
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Managerial Economics
+    institution: Northwestern  University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
